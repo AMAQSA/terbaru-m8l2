@@ -197,7 +197,7 @@ if jenis_game == "discord":
         else:
             await ctx.send("Anda lupa mengunggah gambar :(")
 
-    bot.run("MTEwNjgwNTAxMDI5NTE3MzE3MA.GXU6Kj.lyAEnmIqQtxYVJlEWMkaH7qtIqinL5j-yZGcWU")
+    bot.run("TOKEN")
 else:
     print ("maaf adanya cuma")
     for i in range(4):
